@@ -2,7 +2,9 @@
 /**
  * main - Entry point
  *
- * return: Always 0
+ * Description: 'the program should output size of various data types'
+ *
+ * Return: Always 0
  */
 int main(void)
 {
