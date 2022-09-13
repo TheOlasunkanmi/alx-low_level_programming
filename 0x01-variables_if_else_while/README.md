@@ -9,3 +9,4 @@ The 6-print_numberz.c progam prints all single digit numbers of base 10 from 0 w
 The 7-print_tebahpla.c program prints the lowercase alphabet in reverse, followed by a new line.
 The 8-print_base16.c progam prints all the numbers of base 16 in lowercase followed by a new line.
 The 9-print_comb.c progam prints all possible combinations of single-digit numbers.
+The 100-print_comb3.c program prints all possible different combinations of two digits separated by a comma followed by a space.
