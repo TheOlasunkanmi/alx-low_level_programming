@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * main - print all digits of the base ten without using the char type
  *
@@ -13,7 +12,7 @@ int main(void)
 
 	for (i = 0; i < 10; i++)
 	{
-		printf("%i", i);
+		putchar (i);
 	}
 	putchar('\n');
 	return (0);
