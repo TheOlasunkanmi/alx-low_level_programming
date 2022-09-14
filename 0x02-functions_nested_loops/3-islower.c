@@ -2,14 +2,13 @@
 /**
  * _islower - entry point
  *
+ * @c: the character to be printed
  * Description: using the _islower function the program checks for
  * lowercase letter
  * Return: 0
  */
 int _islower(int c)
 {
-	int c;
-
 	if (c >= 'a' && c <= 'z')
 	{
 		return (1);
