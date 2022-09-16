@@ -5,6 +5,8 @@
  * print_square - entry point
  *
  * @size: parameter
+ * Description: using the print_square funtion, the
+ * programme prints a square
  * Return: nothing
  */
 
