@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ *main - entry point
  *
+ * Description: prints fizz or buzz or fizzbuzz
  * Return: 0
  */
 
