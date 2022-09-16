@@ -29,7 +29,7 @@ int main(void)
 			}
 			else
 			{
-				printf("Buzz");
+				printf("Buzz ");
 			}
 		}
 		else
@@ -41,5 +41,4 @@ int main(void)
 	
 	return (0);
 }
-
 
