@@ -1,9 +1,10 @@
 #include <stdio.h>
-#includ "main.h"
+#include "main.h"
 
 /**
  * print_line - prints a straight line
  * @n: argument
+ * Description: the program prints a straight line
  * Return: nothing
  */
 
