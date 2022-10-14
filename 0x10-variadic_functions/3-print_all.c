@@ -24,7 +24,8 @@ void print_char(va_list arg)
 	printf("%c", letter);
 }
 
-/**print_int - prints an int
+/**
+ * print_int - prints an int
  *
  * @arg: a list of arguments pointing to the integer
  * to be printed
@@ -75,7 +76,7 @@ void print_string(va_list arg)
 
 /**
  * print_all - Prints anything, followed by a new line.
- * format: A string of characters representing the argument types.
+ * @format: A string of characters representing the argument types.
  * @...: A variable number of arguments to be printed.
  *
  * Description: Any argument not of type char, int, float,
@@ -109,7 +110,6 @@ void print_all(const char * const format, ...)
 			funcs[j].print(args);
 			separator = ", ";
 		}
-		
 		i++;
 	}
 
